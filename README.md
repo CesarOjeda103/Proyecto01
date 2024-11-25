@@ -1,4 +1,4 @@
-# Poryecto00
+# Proyecto00
 
 ## Project setup
 ```
